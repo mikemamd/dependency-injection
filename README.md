@@ -27,8 +27,11 @@ Esta implementación sobrescribirá el método **_registrar_** y debería "regis
 ## Flujo :loop:
 
 1.- El flujo iniciría en `service.registrar("MIKE MAMD");`. del método _run_ de la clase _DemoApplication_
+
 2.- El **nombre** viajaría hasta la capa de **_service_**
+
 3.- La capa service hace un "puente" y la direccione a la capa **_repo_**
+
 4.- La capa repo hace la implementación con la lógica que se ha indicado ahí
 
 
