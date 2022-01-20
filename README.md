@@ -34,7 +34,8 @@ Esta implementación sobrescribirá el método **_registrar_** y debería "regis
 
 4.- La capa repo hace la implementación con la lógica que se ha indicado ahí
 
-
+<br/><br/>
+<br/><br/>
 ### Colaboradores 🚀
 
 - Miguel Martínez
